@@ -1,0 +1,4 @@
+MVI A,10H
+MVI B,20H
+ADD B
+HLT
